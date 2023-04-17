@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D067DADB-A590-4317-AC0F-F9F2DDADC574}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CoreEscuela PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreEscuela/App/Reporter.cs">
+    <Files>
+      <File FileName="CoreEscuela/Program.cs" Line="33" Column="54" />
+      <File FileName="CoreEscuela/App/SchoolEngine.cs" Line="1" Column="1" />
+      <File FileName="CoreEscuela/Entities/Evaluation.cs" />
+      <File FileName="CoreEscuela/Entities/DictionaryKeys.cs" />
+      <File FileName="CoreEscuela/App/Reporter.cs" Line="4" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoreEscuela" expanded="True">
+            <Node name="CoreEscuela" expanded="True">
+              <Node name="App" expanded="True">
+                <Node name="Reporter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

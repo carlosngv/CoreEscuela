@@ -1,0 +1,15 @@
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/bin/Debug/net7.0/CoreEscuela.deps.json
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/bin/Debug/net7.0/CoreEscuela.dll
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/bin/Debug/net7.0/CoreEscuela.pdb
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.csproj.AssemblyReference.cache
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.AssemblyInfoInputs.cache
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.AssemblyInfo.cs
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.csproj.CoreCompileInputs.cache
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.dll
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/refint/CoreEscuela.dll
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.pdb
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/ref/CoreEscuela.dll
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/bin/Debug/net7.0/CoreEscuela
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/bin/Debug/net7.0/CoreEscuela.runtimeconfig.json
+/Users/carlosngv/dev/Platzi/Cursos .NET/FundamentosC#Core2.1/CoreEscuela/CoreEscuela/obj/Debug/net7.0/CoreEscuela.genruntimeconfig.cache

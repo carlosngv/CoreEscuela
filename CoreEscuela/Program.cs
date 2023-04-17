@@ -26,8 +26,6 @@ namespace CoreEscuela
 
             engine.School.CleanPlace();
 
-            //Printer.PrintTitle("Diccionario");
-
             var objDictionary = engine.GetObjectDictionary();
             //engine.ShowDictionary(objDictionary, true);
             var reporter = new Reporter(objDictionary);
